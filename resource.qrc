@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/imagens">
+        <file>c++_50px.png</file>
+        <file>qt_100px2.png</file>
+        <file>c++.ico</file>
+        <file>inputbox.png</file>
+        <file>messagebox.png</file>
+        <file>styles.png</file>
+        <file>application_double.png</file>
+        <file>calendar_80px.png</file>
+        <file>codeexamples.png</file>
+    </qresource>
+</RCC>
